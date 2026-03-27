@@ -1,7 +1,7 @@
 ---
 layout: post-no-img-head
 title: EAD Spotlight
-description: "In this post, you can watch and listen to the talk given by Mariana and Gavin at our DARCI Conference, last September at the University of York. They outline the EAD methods, the last few film productions the methods were applied with, and future steps."
+description: "The EAD Spotlight by Mariana and Gavin delivered as part of the DARCI Conference in September 2025 (University of York), outlining what the methods are, the work done in collaboration with filmmakers and future steps."
 date: 2026-03-27
 image: '/images/2026-03-27-darci-conference-ead-spotlight.webp'
 image-alt: 'Mariana and Gavin stand before an audience seated in tiered rows inside a modern lecture hall or theater, with most attendees looking toward the stage.'
