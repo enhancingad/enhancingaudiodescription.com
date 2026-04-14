@@ -3,7 +3,7 @@ layout: post-no-img-head
 title: Visible Mending BAFTA Nomination
 description: We are excited to announce that Visible Mending, a project we hold close to our hearts, has been nominated for the Best British Animated Short at the British Academy Film and Television Arts (BAFTA) awards. Now you can watch it on our website. 
 date: 2024-01-31
-image: '/images/2024-01-26-visible-mending-bafta.webp'
+image: '/images/2024-01-26-visible-mending-bafta-with-logo.webp'
 image-alt: ‘A screenshot of our online meeting with people smiling.’
 tags: [media, video, event]
 grid: true

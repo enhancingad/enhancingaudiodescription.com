@@ -3,7 +3,7 @@ layout: post-no-img-head
 title: Spines with EAD
 description: "Filmmaker Joseph Inman collaborated with our EAD team to create an accessible version of Spines, a significant project being the first BFI Network-funded film to be written, directed, and starring an autistic person. Now you can experience the film online."
 date: 2026-04-13
-image: '/images/2026-04-13-spines.webp'
+image: '/images/2026-04-13-spines-with-logo.webp'
 image-alt: 'A young boy stands in front of a tall bookcase filled with colorful books.'
 tags: [media, video]
 grid: true

@@ -3,7 +3,7 @@ layout: post-no-img-head
 title: Children's Animation with EAD - Mami Fatale
 description: "Back in 2022 we welcomed Dr Monika Zabrocka to the University of York on a 2-year fellowship. As part of that fellowship, Monika and Mariana collaborated on a project that resulted in the creation, in 2024, of an EAD track for an episode of GS Animation's Mami Fatale. This was the first time we worked on a children's animation."
 date: 2026-01-19
-image: '/images/2026-01-19-mami-fatale.webp'
+image: '/images/2026-01-19-mami-fatale-with-logo.webp'
 image-alt: ‘A whimsical cartoon house with a patchwork roof and chimney pipes. Surrounded by a wooden fence and trees under a bright, sunny sky.’
 tags: [media, video]
 grid: true

@@ -3,7 +3,7 @@ layout: post
 title:  Shelf Life
 description: In this post, you can watch our short film Shelf Life and read about why we made it. 
 date:   2022-02-25
-image:  '/images/2022-02-25-watch-shelf-life.webp'
+image:  '/images/2022-02-25-watch-shelf-life-with-logo.webp'
 image-alt: 'A frame from the movie Shelf Life.'
 tags:   [media, video, Shelf-Life]
 ---
