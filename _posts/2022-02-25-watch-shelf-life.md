@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-img-head
 title:  Shelf Life
 description: In this post, you can watch our short film Shelf Life and read about why we made it. 
 date:   2022-02-25
