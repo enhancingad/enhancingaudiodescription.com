@@ -5,7 +5,7 @@ description: "In this post, Chaimae highlights the challenges of Audio Descripti
 date: 2026-05-21
 image: '/images/2026-05-21-access-in-morocco.webp'
 image-alt: 'A drawing of eyes in white on a black background.'
-tags: [conference, reflection]
+tags: [reflection]
 grid: true
 ---
 
